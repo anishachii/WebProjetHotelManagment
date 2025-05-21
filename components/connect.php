@@ -1,4 +1,7 @@
 <?php
+session_start();
+?>
+<?php
 
    $db_name = 'mysql:host=localhost;dbname=hotel_db';
    $db_user_name = 'root';
